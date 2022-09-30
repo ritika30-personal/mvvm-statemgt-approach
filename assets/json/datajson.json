@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "author": "Neha Bhaskar",
+      "title": "Get some bug",
+      "description": "No bug is less than the production release",
+      "url": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "urlToImage": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "publishedAt": "Monday",
+      "content": "Content are made on own or by developer we are here to test and whatever u are doing is already a bug lols"
+    },
+    {
+      "author": "Aazar Khan ",
+      "title": "some endless",
+      "description": "No bug is less than the production release",
+      "url": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "urlToImage": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "publishedAt": "Tuesday",
+      "content": "Content are made on own or by developer we are here to test and whatever u are doing is already a bug lols"
+    },
+    {
+      "author": "Ashish Sharma",
+      "title": "Viewer can demolish",
+      "description": "No bug is less than the production release",
+      "url": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "urlToImage": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "publishedAt": "Wednesday",
+      "content": "Content are made on own or by developer we are here to test and whatever u are doing is already a bug lols"
+    },
+    {
+      "author": "Kelvin Q",
+      "title": "Horizontal crises",
+      "description": "No bug is less than the production release",
+      "url": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "urlToImage": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "publishedAt": "Thrusday",
+      "content": ""
+    },
+    {
+      "author": "Mona Devari",
+      "title": "Upset mind",
+      "description": "Release the people who are upset",
+      "url": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "urlToImage": "https://shield-upload.s3.amazonaws.com/images2022630-1656585482347.jpeg",
+      "publishedAt": "Friday",
+      "content": "Mind never end the power to think, whatever you have thinked negative so far will make the upset scenarios"
+    }
+  ]
+}
